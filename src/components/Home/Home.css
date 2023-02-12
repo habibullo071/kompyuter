@@ -1,0 +1,23 @@
+.ilovalar {
+    margin: 10px 10px;
+    height: 590px;
+    flex-wrap: wrap;
+    width: 250px;
+    background-image: none;
+    background-image: url(https://yandex.uz/images/search?pos=0&from=tabbar&img_url=http%3A%2F%2Fget.wallhere.com%2Fphoto%2Fcar-reflection-sky-vehicle-photography-supercars-blue-technology-sports-car-performance-car-Sedan-wheel-supercar-1920x1080-px-computer-wallpaper-land-vehicle-automotive-design-automotive-exterior-race-car-luxury-vehicle-compact-car-motor-vehicle-city-car-auto-part-electric-blue-automotive-wheel-system-842786.jpg&text=car+img&rpt=simage&lr=189629);
+
+    background-image: inherit;
+
+}
+
+.ilovalar button {
+    border: none;
+    margin: 10px;
+}
+
+.etot {
+    cursor: pointer;
+    width: 90px;
+    height: 90px;
+    object-fit: cover;
+}
